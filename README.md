@@ -1,1 +1,1 @@
-# US-Presidents-Password-Generator
+This is a password generator which will generate a password comprised of the surname of a US president and the year they were first inaugurated. The accompanying text file was written by me, and contains a line for each president with their inauguration year.
